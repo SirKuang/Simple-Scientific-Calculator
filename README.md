@@ -1,1 +1,1 @@
-# Simple-Scientific-Calculator
+# 该计算器在QT5环境下进行编写，请在QT5环境下运行
